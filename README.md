@@ -1657,7 +1657,7 @@
 
 **Ответ:** №1340_1928
 
-**Решение:** [https://www.prlib.ru/item/1079932]
+**Решение:** https://www.prlib.ru/item/1079932
 
 ---
 
@@ -1671,7 +1671,7 @@
 
 **Ответ:** 11
 
-**Решение:** [https://www.prlib.ru/item/979936]
+**Решение:** https://www.prlib.ru/item/979936
 
 ---
 
@@ -1685,7 +1685,7 @@
 
 **Ответ:** 1725
 
-**Решение:** [https://www.prlib.ru/item/355087]
+**Решение:** https://www.prlib.ru/item/355087
 
 ---
 
@@ -1697,7 +1697,7 @@
 
 **Ответ:** 1721
 
-**Решение:** [https://static.prlib.ru/biblioteka_petra_i/02.html]
+**Решение:** https://static.prlib.ru/biblioteka_petra_i/02.html
 
 ---
 
@@ -1711,7 +1711,7 @@
 
 **Ответ:** Плещеево озеро/Плещеево
 
-**Решение:** [https://static.prlib.ru/biblioteka_petra_i/04.html]
+**Решение:** https://static.prlib.ru/biblioteka_petra_i/04.html
 
 ---
 
