@@ -587,7 +587,7 @@
 
 ![старая карта](assets/secret%20cases/OldMap.png)
 
-![карта](assets/secret%20cases/map.png)
+![карта](assets/secret%20cases/Map.png)
 
 **Формат ответа:** Фамилия_Имя_Отчество
 
@@ -711,7 +711,7 @@
 
 **Описание:** Он стал первым участником одной затеи Петра I. В каком году это было?
 
-![осторожно](assets/great%20years/осторожно.jpg)
+![осторожно](assets/great%20years/осторожно.JPG)
 
 **Формат:** год
 
@@ -1335,7 +1335,7 @@
 
 **Описание:**
 
-![Isanybodyhere](assets/ciphers/isanybodyhere.docx)
+[Isanybodyhere](assets/ciphers/isanybodyhere.docx)
 
 **Формат:** Слово
 
@@ -1775,7 +1775,7 @@
 
 **Описание:** Согласно Морскому уставу Петра Великого нужно выстрелить один раз из пушки и поднять этот флаг, когда Адмирал желает…
 
-![флаг](assets/catalogus/флаг.jpg)
+![флаг](assets/catalogus/флаг.JPG)
 
 **Формат:** слово_слово_слово_слово_слово
 
